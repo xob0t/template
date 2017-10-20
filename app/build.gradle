@@ -26,10 +26,9 @@ ext {
 
 android {
     compileSdkVersion 26
-    buildToolsVersion "26.0.1"
 
     defaultConfig {
-        applicationId "substratum.theme.template"
+        applicationId "my.anroid.theme"
         minSdkVersion 24
         targetSdkVersion 26
         versionCode 1

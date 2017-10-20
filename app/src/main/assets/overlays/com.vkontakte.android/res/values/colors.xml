@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bottom_menu_color">#ff000000</color>
+	<color name="messages_background_color">#ff000000</color>
+    <color name="window_bg">#ff000000</color>
+    <color name="message_time">#ffffffff</color>
+</resources>

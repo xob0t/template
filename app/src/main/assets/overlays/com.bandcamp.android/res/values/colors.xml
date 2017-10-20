@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#ffffffff</color>
+    <color name="white">#ff000000</color>
+	<color name="bcwPlayerProgressPrimary">#ffCECECE</color>
+    <color name="bcwPlayerProgressSecondary">#ffC6C6C6</color>
+    <color name="bcwPlayerThumbBody">#ff424242</color>
+	<color name="bcweekly_duration_bg">#ffCECECE</color>
+	<color name="bcText">#ffffffff</color>
+</resources>
